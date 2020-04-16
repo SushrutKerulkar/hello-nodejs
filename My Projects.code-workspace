@@ -1,7 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	]
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "DO101-apps",
+      "path": "..\\Fork_DO101\\DO101-apps"
+    }
+  ]
 }
